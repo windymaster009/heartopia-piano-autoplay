@@ -1,0 +1,2 @@
+pydirectinput==1.0.4
+keyboard==0.13.5
