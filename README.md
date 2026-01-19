@@ -114,4 +114,4 @@ python main.py
 - **F3** – Open song selection menu  
 - **F4** – Start / Stop playback (toggle)  
 - **ESC** – Exit the program completely  
-"""
+
