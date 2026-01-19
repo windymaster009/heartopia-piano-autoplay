@@ -1,0 +1,3991 @@
+TEMPO: 1.0
+DELAY: 4
+DELAY: 8
+DELAY: 4
+DELAY: 8
+DELAY: 8
+DELAY: 191
+DELAY: 12
+DELAY: 195
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 25
+DELAY: 8
+DELAY: 158
+DELAY: 12
+DELAY: 195
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 195
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 33
+DELAY: 8
+DELAY: 145
+DELAY: 8
+DELAY: 4
+DELAY: 29
+DELAY: 158
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+DELAY: 20
+DELAY: 8
+DELAY: 158
+DELAY: 8
+DELAY: 4
+DELAY: 8
+DELAY: 179
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+DELAY: 12
+DELAY: 8
+DELAY: 175
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 195
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 191
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 191
+DELAY: 12
+DELAY: 195
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+DELAY: 33
+DELAY: 154
+DELAY: 8
+DELAY: 4
+DELAY: 45
+DELAY: 141
+DELAY: 8
+DELAY: 191
+DELAY: 12
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 195
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 195
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+DELAY: 41
+DELAY: 4
+DELAY: 141
+DELAY: 8
+DELAY: 4
+DELAY: 112
+DELAY: 83
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 200
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 195
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 45
+DELAY: 4
+DELAY: 141
+DELAY: 8
+DELAY: 191
+DELAY: 212
+DELAY: 95
+DELAY: 68
+DELAY: 34
+DELAY: 4
+DELAY: 30
+DELAY: 70
+DELAY: 99
+DELAY: 9
+DELAY: 4
+DELAY: 31
+DELAY: 181
+DELAY: 4
+DELAY: 203
+DELAY: 9
+DELAY: 4
+DELAY: 104
+DELAY: 72
+DELAY: 13
+DELAY: 13
+DELAY: 9
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 30
+DELAY: 13
+DELAY: 21
+DELAY: 34
+DELAY: 45
+DELAY: 45
+DELAY: 8
+DELAY: 191
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+DELAY: 33
+DELAY: 154
+DELAY: 8
+DELAY: 4
+DELAY: 108
+DELAY: 79
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 62
+DELAY: 125
+DELAY: 8
+DELAY: 116
+DELAY: 8
+DELAY: 66
+DELAY: 8
+DELAY: 191
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 195
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 66
+DELAY: 120
+DELAY: 12
+DELAY: 87
+DELAY: 108
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 195
+DELAY: 4
+DELAY: 195
+DELAY: 191
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 62
+DELAY: 125
+DELAY: 8
+DELAY: 133
+DELAY: 58
+DELAY: 8
+DELAY: 191
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 29
+DELAY: 4
+DELAY: 154
+DELAY: 8
+DELAY: 4
+DELAY: 79
+DELAY: 108
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 195
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 41
+DELAY: 4
+DELAY: 150
+DELAY: 4
+DELAY: 62
+DELAY: 125
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 33
+DELAY: 8
+DELAY: 145
+DELAY: 8
+DELAY: 4
+DELAY: 75
+DELAY: 4
+DELAY: 108
+DELAY: 8
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 4
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 12
+DELAY: 41
+DELAY: 4
+DELAY: 150
+DELAY: 66
+DELAY: 4
+DELAY: 120
+DELAY: 12
+DELAY: 195
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 12
+DELAY: 8
+DELAY: 175
+DELAY: 191
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 141
+DELAY: 4
+DELAY: 41
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 179
+DELAY: 4
+DELAY: 8
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 195
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 195
+DELAY: 4
+DELAY: 100
+DELAY: 8
+DELAY: 87
+DELAY: 4
+DELAY: 162
+DELAY: 4
+DELAY: 20
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 162
+DELAY: 25
+DELAY: 8
+DELAY: 191
+DELAY: 12
+DELAY: 162
+DELAY: 34
+DELAY: 4
+DELAY: 166
+DELAY: 34
+DELAY: 4
+DELAY: 99
+DELAY: 95
+DELAY: 8
+DELAY: 4
+DELAY: 30
+DELAY: 105
+DELAY: 36
+DELAY: 27
+DELAY: 9
+DELAY: 4
+DELAY: 32
+DELAY: 115
+DELAY: 68
+DELAY: 9
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 34
+DELAY: 195
+DELAY: 4
+DELAY: 219
+DELAY: 9
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 117
+DELAY: 107
+DELAY: 9
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 33
+DELAY: 18
+DELAY: 9
+DELAY: 46
+DELAY: 37
+DELAY: 63
+DELAY: 9
+DELAY: 4
+DELAY: 67
+DELAY: 35
+DELAY: 4
+DELAY: 30
+DELAY: 60
+DELAY: 8
+DELAY: 4
+DELAY: 30
+DELAY: 164
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 102
+DELAY: 66
+DELAY: 25
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 191
+DELAY: 8
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 8
+DELAY: 4
+DELAY: 175
+DELAY: 8
+DELAY: 66
+DELAY: 125
+DELAY: 8
+DELAY: 191
+DELAY: 12
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 191
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 29
+DELAY: 158
+DELAY: 8
+DELAY: 4
+DELAY: 75
+DELAY: 4
+DELAY: 108
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 12
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 195
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 45
+DELAY: 8
+DELAY: 133
+DELAY: 8
+DELAY: 4
+DELAY: 79
+DELAY: 8
+DELAY: 108
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 33
+DELAY: 154
+DELAY: 8
+DELAY: 4
+DELAY: 195
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 195
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 191
+DELAY: 12
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 41
+DELAY: 145
+DELAY: 8
+DELAY: 79
+DELAY: 112
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 191
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 29
+DELAY: 4
+DELAY: 162
+DELAY: 50
+DELAY: 141
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 195
+DELAY: 4
+DELAY: 8
+DELAY: 179
+DELAY: 8
+DELAY: 4
+DELAY: 87
+DELAY: 8
+DELAY: 100
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 195
+DELAY: 4
+DELAY: 195
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 8
+DELAY: 179
+DELAY: 8
+DELAY: 4
+DELAY: 41
+DELAY: 4
+DELAY: 141
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 179
+DELAY: 12
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 8
+DELAY: 79
+DELAY: 8
+DELAY: 91
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 87
+DELAY: 8
+DELAY: 100
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 87
+DELAY: 8
+DELAY: 104
+DELAY: 66
+DELAY: 8
+DELAY: 20
+DELAY: 100
+DELAY: 4
+DELAY: 95
+DELAY: 4
+DELAY: 87
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 91
+DELAY: 108
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 166
+DELAY: 25
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 33
+DELAY: 59
+DELAY: 8
+DELAY: 104
+DELAY: 4
+DELAY: 30
+DELAY: 138
+DELAY: 26
+DELAY: 8
+DELAY: 4
+DELAY: 92
+DELAY: 8
+DELAY: 72
+DELAY: 40
+DELAY: 176
+DELAY: 37
+DELAY: 37
+DELAY: 37
+DELAY: 37
+DELAY: 37
+DELAY: 67
+DELAY: 9
+DELAY: 4
+DELAY: 33
+DELAY: 39
+DELAY: 146
+DELAY: 9
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 5
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 115
+DELAY: 112
+DELAY: 10
+DELAY: 235
+DELAY: 10
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 5
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 107
+DELAY: 10
+DELAY: 120
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 5
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 35
+DELAY: 29
+DELAY: 9
+DELAY: 78
+DELAY: 39
+DELAY: 38
+DELAY: 4
+DELAY: 72
+DELAY: 27
+DELAY: 9
+DELAY: 4
+DELAY: 69
+DELAY: 27
+DELAY: 9
+DELAY: 4
+DELAY: 69
+DELAY: 36
+DELAY: 72
+DELAY: 26
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 66
+DELAY: 69
+DELAY: 60
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 64
+DELAY: 66
+DELAY: 66
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 50
+DELAY: 8
+DELAY: 133
+DELAY: 12
+DELAY: 66
+DELAY: 120
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 8
+DELAY: 4
+DELAY: 175
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 87
+DELAY: 8
+DELAY: 104
+DELAY: 195
+DELAY: 4
+DELAY: 195
+DELAY: 191
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 16
+DELAY: 8
+DELAY: 166
+DELAY: 8
+DELAY: 45
+DELAY: 4
+DELAY: 41
+DELAY: 100
+DELAY: 12
+DELAY: 195
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 66
+DELAY: 8
+DELAY: 112
+DELAY: 8
+DELAY: 4
+DELAY: 108
+DELAY: 4
+DELAY: 75
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 195
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 87
+DELAY: 8
+DELAY: 100
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 8
+DELAY: 4
+DELAY: 75
+DELAY: 8
+DELAY: 91
+DELAY: 8
+DELAY: 191
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 95
+DELAY: 66
+DELAY: 25
+DELAY: 8
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 89
+DELAY: 8
+DELAY: 104
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 30
+DELAY: 60
+DELAY: 8
+DELAY: 69
+DELAY: 27
+DELAY: 9
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 31
+DELAY: 72
+DELAY: 74
+DELAY: 27
+DELAY: 9
+DELAY: 37
+DELAY: 156
+DELAY: 29
+DELAY: 9
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 224
+DELAY: 14
+DELAY: 34
+DELAY: 70
+DELAY: 10
+DELAY: 120
+DELAY: 5
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 236
+DELAY: 5
+DELAY: 105
+DELAY: 10
+DELAY: 5
+DELAY: 115
+DELAY: 5
+DELAY: 40
+DELAY: 10
+DELAY: 65
+DELAY: 107
+DELAY: 9
+DELAY: 4
+DELAY: 34
+DELAY: 4
+DELAY: 151
+DELAY: 29
+DELAY: 9
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 34
+DELAY: 76
+DELAY: 74
+DELAY: 27
+DELAY: 9
+DELAY: 4
+DELAY: 32
+DELAY: 63
+DELAY: 81
+DELAY: 36
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 203
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 13
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 22
+DELAY: 9
+DELAY: 172
+DELAY: 9
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 9
+DELAY: 194
+DELAY: 9
+DELAY: 4
+DELAY: 203
+DELAY: 9
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 203
+DELAY: 9
+DELAY: 4
+DELAY: 203
+DELAY: 9
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 208
+DELAY: 9
+DELAY: 4
+DELAY: 9
+DELAY: 194
+DELAY: 9
+DELAY: 4
+DELAY: 9
+DELAY: 194
+DELAY: 9
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 203
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 104
+DELAY: 4
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 95
+DELAY: 9
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+DELAY: 95
+DELAY: 13
+DELAY: 81
+DELAY: 13
+DELAY: 9
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 203
+DELAY: 9
+DELAY: 4
+DELAY: 49
+DELAY: 9
+DELAY: 144
+DELAY: 9
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 212
+DELAY: 4
+DELAY: 203
+DELAY: 9
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+DELAY: 203
+DELAY: 9
+DELAY: 4
+DELAY: 203
+DELAY: 9
+DELAY: 4
+DELAY: 212
+DELAY: 49
+DELAY: 158
+DELAY: 9
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 108
+DELAY: 99
+DELAY: 9
+DELAY: 4
+DELAY: 203
+DELAY: 9
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 203
+DELAY: 9
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+DELAY: 86
+DELAY: 9
+DELAY: 108
+DELAY: 9
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 194
+DELAY: 9
+DELAY: 9
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 95
+DELAY: 9
+DELAY: 99
+DELAY: 9
+DELAY: 4
+DELAY: 104
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 95
+DELAY: 9
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 95
+DELAY: 9
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 140
+DELAY: 63
+DELAY: 9
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 95
+DELAY: 9
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 76
+DELAY: 9
+DELAY: 13
+DELAY: 9
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 104
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 104
+DELAY: 4
+DELAY: 95
+DELAY: 9
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 49
+DELAY: 45
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 104
+DELAY: 4
+DELAY: 67
+DELAY: 27
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 86
+DELAY: 9
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 86
+DELAY: 9
+DELAY: 9
+DELAY: 99
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 31
+DELAY: 4
+DELAY: 58
+DELAY: 9
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 104
+DELAY: 4
+DELAY: 45
+DELAY: 4
+DELAY: 45
+DELAY: 9
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 4
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 104
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 63
+DELAY: 9
+DELAY: 27
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 49
+DELAY: 9
+DELAY: 36
+DELAY: 9
+DELAY: 99
+DELAY: 9
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 58
+DELAY: 36
+DELAY: 9
+DELAY: 99
+DELAY: 9
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 45
+DELAY: 4
+DELAY: 45
+DELAY: 13
+DELAY: 95
+DELAY: 9
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 31
+DELAY: 63
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 31
+DELAY: 72
+DELAY: 4
+DELAY: 104
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 36
+DELAY: 58
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 13
+DELAY: 86
+DELAY: 9
+DELAY: 4
+DELAY: 81
+DELAY: 13
+DELAY: 13
+DELAY: 95
+DELAY: 9
+DELAY: 99
+DELAY: 13
+DELAY: 31
+DELAY: 4
+DELAY: 67
+DELAY: 4
+DELAY: 31
+DELAY: 63
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 99
+DELAY: 9
+DELAY: 99
+DELAY: 9
+DELAY: 4
+DELAY: 104
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 104
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 104
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 95
+DELAY: 9
+DELAY: 4
+DELAY: 31
+DELAY: 72
+DELAY: 4
+DELAY: 95
+DELAY: 9
+DELAY: 108
+DELAY: 37
+DELAY: 37
+DELAY: 76
+DELAY: 78
+DELAY: 39
+DELAY: 80
+DELAY: 81
+DELAY: 41
+DELAY: 83
+DELAY: 31
+DELAY: 10
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 5
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 37
+DELAY: 87
+DELAY: 122
+DELAY: 11
+DELAY: 5
+DELAY: 85
+DELAY: 136
+DELAY: 34
+DELAY: 11
+DELAY: 5
+DELAY: 40
+DELAY: 188
+DELAY: 36
+DELAY: 12
+DELAY: 6
+DELAY: 66
+DELAY: 264
+DELAY: 68
+DELAY: 131
+DELAY: 150
+DELAY: 195
+DELAY: 13
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 52
+DELAY: 247
+DELAY: 13
+DELAY: 312
+DELAY: 13
+DELAY: 6
+DELAY: 305
+DELAY: 13
+DELAY: 6
+DELAY: 33
+DELAY: 271
+DELAY: 13
+DELAY: 6
+DELAY: 54
+DELAY: 264
+DELAY: 271
+DELAY: 39
+DELAY: 19
+DELAY: 149
+DELAY: 52
+DELAY: 49
+DELAY: 49
+DELAY: 6
+DELAY: 43
+DELAY: 96
+DELAY: 47
+DELAY: 46
+DELAY: 34
+DELAY: 11
+DELAY: 45
+DELAY: 90
+DELAY: 87
+DELAY: 31
+DELAY: 10
+DELAY: 5
+DELAY: 36
+DELAY: 41
+DELAY: 40
+DELAY: 80
+DELAY: 39
+DELAY: 4
+DELAY: 33
+DELAY: 37
+DELAY: 37
+DELAY: 36
+DELAY: 34
+DELAY: 25
+DELAY: 8
+DELAY: 33
+DELAY: 156
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 32
+DELAY: 8
+DELAY: 143
+DELAY: 8
+DELAY: 4
+DELAY: 53
+DELAY: 131
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 193
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 8
+DELAY: 4
+DELAY: 180
+DELAY: 4
+DELAY: 28
+DELAY: 4
+DELAY: 152
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 176
+DELAY: 8
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 189
+DELAY: 12
+DELAY: 8
+DELAY: 176
+DELAY: 8
+DELAY: 189
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 193
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 189
+DELAY: 12
+DELAY: 193
+DELAY: 189
+DELAY: 12
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 193
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 193
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 20
+DELAY: 8
+DELAY: 156
+DELAY: 8
+DELAY: 4
+DELAY: 65
+DELAY: 8
+DELAY: 111
+DELAY: 8
+DELAY: 4
+DELAY: 193
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+DELAY: 20
+DELAY: 8
+DELAY: 156
+DELAY: 8
+DELAY: 57
+DELAY: 8
+DELAY: 123
+DELAY: 8
+DELAY: 189
+DELAY: 8
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 193
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 37
+DELAY: 152
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 189
+DELAY: 12
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 193
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 12
+DELAY: 172
+DELAY: 8
+DELAY: 4
+DELAY: 61
+DELAY: 123
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 193
+DELAY: 4
+DELAY: 193
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 8
+DELAY: 176
+DELAY: 12
+DELAY: 41
+DELAY: 4
+DELAY: 148
+DELAY: 189
+DELAY: 8
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 189
+DELAY: 8
+DELAY: 189
+DELAY: 12
+DELAY: 193
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 32
+DELAY: 152
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 8
+DELAY: 4
+DELAY: 180
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 189
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 189
+DELAY: 8
+DELAY: 189
+DELAY: 12
+DELAY: 193
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 119
+DELAY: 8
+DELAY: 57
+DELAY: 8
+DELAY: 4
+DELAY: 160
+DELAY: 4
+DELAY: 20
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 193
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 189
+DELAY: 8
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 189
+DELAY: 8
+DELAY: 189
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 28
+DELAY: 164
+DELAY: 4
+DELAY: 61
+DELAY: 4
+DELAY: 119
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 189
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 12
+DELAY: 8
+DELAY: 164
+DELAY: 8
+DELAY: 4
+DELAY: 45
+DELAY: 139
+DELAY: 8
+DELAY: 4
+DELAY: 193
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 189
+DELAY: 12
+DELAY: 193
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 32
+DELAY: 160
+DELAY: 4
+DELAY: 74
+DELAY: 4
+DELAY: 115
+DELAY: 4
+DELAY: 193
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 193
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 193
+DELAY: 189
+DELAY: 12
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 193
+DELAY: 4
+DELAY: 193
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 193
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 94
+DELAY: 4
+DELAY: 86
+DELAY: 8
+DELAY: 4
+DELAY: 131
+DELAY: 8
+DELAY: 45
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 189
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 193
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+DELAY: 86
+DELAY: 8
+DELAY: 90
+DELAY: 8
+DELAY: 4
+DELAY: 119
+DELAY: 65
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 193
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 189
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 32
+DELAY: 152
+DELAY: 12
+DELAY: 65
+DELAY: 8
+DELAY: 111
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 193
+DELAY: 4
+DELAY: 193
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 53
+DELAY: 131
+DELAY: 8
+DELAY: 4
+DELAY: 53
+DELAY: 131
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 193
+DELAY: 189
+DELAY: 8
+DELAY: 189
+DELAY: 8
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 20
+DELAY: 164
+DELAY: 8
+DELAY: 4
+DELAY: 12
+DELAY: 8
+DELAY: 164
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 28
+DELAY: 156
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 172
+DELAY: 4
+DELAY: 16
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 180
+DELAY: 8
+DELAY: 8
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 185
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 32
+DELAY: 152
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 164
+DELAY: 20
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 20
+DELAY: 172
+DELAY: 4
+DELAY: 53
+DELAY: 8
+DELAY: 131
+DELAY: 4
+DELAY: 193
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 8
+DELAY: 176
+DELAY: 8
+DELAY: 4
+DELAY: 32
+DELAY: 152
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 32
+DELAY: 152
+DELAY: 8
+DELAY: 4
+DELAY: 61
+DELAY: 123
+DELAY: 8
+DELAY: 189
+DELAY: 8
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 189
+DELAY: 8
+DELAY: 4
+DELAY: 45
+DELAY: 139
+DELAY: 8
+DELAY: 4
+DELAY: 78
+DELAY: 106
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 193
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 4
+DELAY: 8
+DELAY: 185
+DELAY: 4
+DELAY: 41
+DELAY: 4
+DELAY: 139
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 189
+DELAY: 8
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 24
+DELAY: 8
+DELAY: 156
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 189
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 28
+DELAY: 156
+DELAY: 8
+DELAY: 4
+DELAY: 86
+DELAY: 8
+DELAY: 90
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 185
+DELAY: 8
+DELAY: 4
+DELAY: 185
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 193
+DELAY: 189
+DELAY: 8
+DELAY: 189
+DELAY: 8
+DELAY: 592
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 86
+DELAY: 197
+DELAY: 98
+DELAY: 8
+DELAY: 789
+DELAY: 4
+DELAY: 12
+DELAY: 106
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 119
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 119
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 119
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 119
+DELAY: 8
+DELAY: 123
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 28
+DELAY: 66
+DELAY: 25
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 59
+DELAY: 8
+DELAY: 60
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 65
+DELAY: 35
+DELAY: 27
+DELAY: 9
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 31
+DELAY: 72
+DELAY: 37
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 32
+DELAY: 27
+DELAY: 9
+DELAY: 37
+DELAY: 38
+DELAY: 4
+DELAY: 33
+DELAY: 117
+DELAY: 4
+DELAY: 34
+DELAY: 80
+DELAY: 30
+DELAY: 10
+DELAY: 40
+DELAY: 114
+DELAY: 10
+DELAY: 83
+DELAY: 42
+DELAY: 32
+DELAY: 10
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 5
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 82
+DELAY: 78
+DELAY: 11
+DELAY: 5
+DELAY: 39
+DELAY: 34
+DELAY: 11
+DELAY: 79
+DELAY: 11
+DELAY: 170
+DELAY: 11
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 5
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 39
+DELAY: 136
+DELAY: 5
+DELAY: 73
+DELAY: 11
+DELAY: 81
+DELAY: 11
+DELAY: 5
+DELAY: 133
+DELAY: 47
+DELAY: 5
+DELAY: 170
+DELAY: 11
+DELAY: 5
+DELAY: 182
+DELAY: 5
+DELAY: 170
+DELAY: 11
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 5
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 170
+DELAY: 11
+DELAY: 5
+DELAY: 76
+DELAY: 11
+DELAY: 23
+DELAY: 11
+DELAY: 58
+DELAY: 5
+DELAY: 182
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 5
+DELAY: 64
+DELAY: 11
+DELAY: 106
+DELAY: 5
+DELAY: 76
+DELAY: 11
+DELAY: 23
+DELAY: 11
+DELAY: 47
+DELAY: 11
+DELAY: 5
+DELAY: 135
+DELAY: 46
+DELAY: 5
+DELAY: 86
+DELAY: 79
+DELAY: 11
+DELAY: 5
+DELAY: 39
+DELAY: 136
+DELAY: 5
+DELAY: 85
+DELAY: 89
+DELAY: 5
+DELAY: 128
+DELAY: 32
+DELAY: 10
+DELAY: 5
+DELAY: 82
+DELAY: 74
+DELAY: 10
+DELAY: 158
+DELAY: 10
+DELAY: 156
+DELAY: 10
+DELAY: 5
+DELAY: 151
+DELAY: 10
+DELAY: 5
+DELAY: 161
+DELAY: 125
+DELAY: 31
+DELAY: 10
+DELAY: 5
+DELAY: 151
+DELAY: 10
+DELAY: 156
+DELAY: 10
+DELAY: 5
+DELAY: 117
+DELAY: 30
+DELAY: 10
+DELAY: 5
+DELAY: 115
+DELAY: 39
+DELAY: 4
+DELAY: 73
+DELAY: 68
+DELAY: 9
+DELAY: 39
+DELAY: 115
+DELAY: 65
+DELAY: 9
+DELAY: 4
+DELAY: 32
+DELAY: 111
+DELAY: 63
+DELAY: 9
+DELAY: 4
+DELAY: 67
+DELAY: 72
+DELAY: 70
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 99
+DELAY: 69
+DELAY: 25
+DELAY: 8
+DELAY: 4
+DELAY: 29
+DELAY: 66
+DELAY: 100
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 191
+DELAY: 8
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 12
+DELAY: 79
+DELAY: 116
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 195
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+DELAY: 66
+DELAY: 8
+DELAY: 112
+DELAY: 8
+DELAY: 4
+DELAY: 141
+DELAY: 4
+DELAY: 41
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 195
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 62
+DELAY: 4
+DELAY: 120
+DELAY: 8
+DELAY: 104
+DELAY: 8
+DELAY: 79
+DELAY: 8
+DELAY: 191
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 12
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 12
+DELAY: 166
+DELAY: 8
+DELAY: 12
+DELAY: 8
+DELAY: 4
+DELAY: 195
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 12
+DELAY: 8
+DELAY: 166
+DELAY: 8
+DELAY: 4
+DELAY: 129
+DELAY: 4
+DELAY: 62
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 4
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 195
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 195
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 33
+DELAY: 8
+DELAY: 145
+DELAY: 8
+DELAY: 4
+DELAY: 75
+DELAY: 4
+DELAY: 108
+DELAY: 8
+DELAY: 4
+DELAY: 195
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 12
+DELAY: 8
+DELAY: 175
+DELAY: 4
+DELAY: 95
+DELAY: 4
+DELAY: 95
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+Keyboard: T : KeyDown
+Keyboard: T : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 54
+DELAY: 8
+DELAY: 125
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+Keyboard: R : KeyDown
+Keyboard: R : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 87
+DELAY: 100
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 12
+DELAY: 8
+DELAY: 166
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 191
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 33
+DELAY: 154
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 191
+DELAY: 12
+DELAY: 195
+DELAY: 4
+DELAY: 195
+DELAY: 4
+DELAY: 195
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 33
+DELAY: 154
+DELAY: 8
+DELAY: 4
+DELAY: 79
+DELAY: 8
+DELAY: 100
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 191
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+DELAY: 41
+DELAY: 4
+DELAY: 150
+DELAY: 104
+DELAY: 8
+DELAY: 79
+DELAY: 12
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 45
+DELAY: 141
+DELAY: 8
+DELAY: 83
+DELAY: 108
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 195
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 191
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 187
+DELAY: 8
+DELAY: 4
+DELAY: 187
+DELAY: 8
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 33
+DELAY: 158
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 8
+DELAY: 4
+DELAY: 83
+DELAY: 94
+DELAY: 8
+DELAY: 4
+DELAY: 47
+DELAY: 8
+DELAY: 77
+DELAY: 60
+DELAY: 8
+DELAY: 4
+DELAY: 169
+DELAY: 34
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 195
+DELAY: 8
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 4
+Keyboard: E : KeyDown
+Keyboard: E : KeyUp
+DELAY: 198
+DELAY: 8
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+DELAY: 66
+DELAY: 135
+DELAY: 9
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 49
+DELAY: 9
+DELAY: 45
+DELAY: 99
+DELAY: 9
+DELAY: 4
+DELAY: 131
+DELAY: 9
+DELAY: 65
+DELAY: 9
+DELAY: 186
+DELAY: 27
+DELAY: 13
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+Keyboard: W : KeyDown
+Keyboard: W : KeyUp
+DELAY: 219
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 4
+Keyboard: I : KeyDown
+Keyboard: I : KeyUp
+DELAY: 32
+DELAY: 182
+DELAY: 9
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 4
+Keyboard: U : KeyDown
+Keyboard: U : KeyUp
+DELAY: 72
+DELAY: 107
+DELAY: 39
+DELAY: 9
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 4
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Y : KeyDown
+Keyboard: Y : KeyUp
+Keyboard: Q : KeyDown
+Keyboard: Q : KeyUp
+DELAY: 92
+DELAY: 9
+DELAY: 9
+DELAY: 273
+DELAY: 282
+DELAY: 276
+DELAY: 10
+DELAY: 40
+DELAY: 291
+DELAY: 291
+DELAY: 296
+DELAY: 350
+DELAY: 312
+DELAY: 278
+DELAY: 11
+DELAY: 28
+DELAY: 318
+DELAY: 324
