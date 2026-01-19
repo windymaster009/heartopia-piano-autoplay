@@ -115,10 +115,3 @@ python main.py
 - **F4** – Start / Stop playback (toggle)  
 - **ESC** – Exit the program completely  
 """
-
-# Write to README.md
-with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-"/mnt/data/README.md file has been created!"
-
